@@ -1,0 +1,10 @@
+{
+  "name": "open-sdk-xml",
+  "version": "0.0.1",
+  "description": "office document open skd xml utils",
+  "main": "entity.js",
+  "repository": "git@github.com:osins/open-sdk-xml.git",
+  "author": "richard",
+  "license": "MIT",
+  "private": false
+}
